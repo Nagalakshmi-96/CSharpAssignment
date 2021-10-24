@@ -1,0 +1,12 @@
+E:\Training\Assignment\C#\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.exe
+E:\Training\Assignment\C#\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.pdb
+E:\Training\Assignment\C#\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.exe
+E:\Training\Assignment\C#\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.pdb
+E:\Training\Assignment\C#\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.csprojResolveAssemblyReference.cache
+E:\Training\Assignment\C#\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.exe.config
+C:\Users\vaduganathann\3D Objects\Nag\Assignment\C#\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.exe.config
+C:\Users\vaduganathann\3D Objects\Nag\Assignment\C#\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.exe
+C:\Users\vaduganathann\3D Objects\Nag\Assignment\C#\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.pdb
+C:\Users\vaduganathann\3D Objects\Nag\Assignment\C#\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\vaduganathann\3D Objects\Nag\Assignment\C#\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.exe
+C:\Users\vaduganathann\3D Objects\Nag\Assignment\C#\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.pdb
